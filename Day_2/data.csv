@@ -1,0 +1,17 @@
+subject_id,gaze,target,position,congruency,response,rt,correct_response,correct
+example,left,H,left,congruent,m,0.47152599412947893,m,1
+example,left,F,right,incongruent,y,0.3850406010169536,y,1
+example,right,F,right,congruent,m,0.3153835879638791,y,0
+example,right,H,left,incongruent,y,0.3278101719915867,m,0
+example,right,H,right,congruent,m,0.31996029103174806,m,1
+example,left,F,left,congruent,m,0.359624887118116,y,0
+example,left,F,left,congruent,y,0.39652680908329785,y,1
+example,left,F,right,incongruent,m,0.34154135803692043,y,0
+example,right,F,right,congruent,y,0.4239501100964844,y,1
+example,left,H,left,congruent,m,0.32559970184229314,m,1
+example,left,H,right,incongruent,y,0.32641437090933323,m,0
+example,right,H,left,incongruent,m,0.3142342867795378,m,1
+example,right,H,right,congruent,y,0.43006652989424765,m,0
+example,right,F,left,incongruent,m,0.3105074770282954,y,0
+example,left,H,right,incongruent,y,0.39420453482307494,m,0
+example,right,F,left,incongruent,m,0.3355344389565289,y,0
