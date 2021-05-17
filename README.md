@@ -7,8 +7,12 @@ Includes all materials for the 2-Day workshop.
 * Intro to programming slides
 * Intro to Python slides 
 * Intro to programming in Python notebook, launch binder:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aylinsgl/GRADE_Python_Workshop_110521/HEAD?filepath=Day_1%2FIntroduction_to_python.ipynb)
-* Knobel notebook
+
+* Knobel notebook, launch binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aylinsgl/GRADE_Python_Workshop_110521/HEAD?filepath=Day_1%2FKnobel%2Fknobelaufgaben.ipynb)
 
 **DAY 2:**
 
