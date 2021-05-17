@@ -18,6 +18,7 @@ Includes all materials for the 2-Day workshop.
 
 * Intro to Psychopy slides
 * Psychopy tutoral - programm your own experiment
+* Data Analysis
 
 The gaze cuing experiment participants program for day 2 is directly taken from Friesen & Kingstone (1998).
 We were inspired to use this experiment in our workshop as it is also used in [his Open Sesame Tutoral.](https://osdoc.cogsci.nl/3.2/tutorials/beginner/)
