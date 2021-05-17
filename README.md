@@ -21,7 +21,7 @@ Includes all materials for the 2-Day workshop.
 * Data Analysis
 
 The gaze cuing experiment participants program for day 2 is directly taken from Friesen & Kingstone (1998).
-We were inspired to use this experiment in our workshop as it is also used in [his Open Sesame Tutoral.](https://osdoc.cogsci.nl/3.2/tutorials/beginner/)
+We were inspired to use this experiment in our workshop as it is also used in [this Open Sesame Tutoral.](https://osdoc.cogsci.nl/3.2/tutorials/beginner/)
 
 Special thanks to [Dejan Draschkow](https://www.draschkow.com), [Sage Boettcher,](https://sageboettcher.jimdofree.com) and [Jona Sassenhagen.](https://jona-sassenhagen.github.io/cv/)
 
