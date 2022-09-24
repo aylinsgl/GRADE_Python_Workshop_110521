@@ -26,7 +26,7 @@ We were inspired to use this experiment in our workshop as it is also used in [t
 Special thanks to [Dejan Draschkow](https://www.draschkow.com), [Sage Boettcher,](https://sageboettcher.jimdofree.com) and [Jona Sassenhagen.](https://jona-sassenhagen.github.io/cv/)
 
 Authors: 
-Melvin Kallmayer, Leah Kumle, Aylin Kallmayer
+Melvin Kallmayer, Levi Kumle, Aylin Kallmayer
 
 
 
